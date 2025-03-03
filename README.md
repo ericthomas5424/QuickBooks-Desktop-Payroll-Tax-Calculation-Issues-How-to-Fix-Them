@@ -1,75 +1,37 @@
-<header>
-
-<!--
-  <<< Author notes: Course header >>>
-  Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
-  In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
-  Add your open source license, GitHub uses MIT license.
--->
-
-# GitHub Pages
-
-_Create a site or blog from your GitHub repositories with GitHub Pages._
-
-</header>
-
-<!--
-  <<< Author notes: Course start >>>
-  Include start button, a note about Actions minutes,
-  and tell the learner why they should take the course.
--->
-
-## Welcome
-
-With GitHub Pages, you can host project blogs, documentation, resumes, portfolios, or any other static content you'd like. Your GitHub repository can easily become its own website. In this course, we'll show you how to set up your own site or blog using GitHub Pages.
-
-- **Who is this for**: Beginners, students, project maintainers, small businesses.
-- **What you'll learn**: How to build a GitHub Pages site.
-- **What you'll build**: We'll build a simple GitHub Pages site with a blog. We'll use [Jekyll](https://jekyllrb.com), a static site generator.
-- **Prerequisites**: If you need to learn about branches, commits, and pull requests, take [Introduction to GitHub](https://github.com/skills/introduction-to-github) first.
-- **How long**: This course takes less than one hour to complete.
-
-In this course, you will:
-
-1. Enable GitHub Pages
-2. Configure your site
-3. Customize your home page
-4. Create a blog post
-5. Merge your pull request
-
-### How to start this course
-
-<!-- For start course, run in JavaScript:
-'https://github.com/new?' + new URLSearchParams({
-  template_owner: 'skills',
-  template_name: 'github-pages',
-  owner: '@me',
-  name: 'skills-github-pages',
-  description: 'My clone repository',
-  visibility: 'public',
-}).toString()
--->
-
-[![start-course](https://user-images.githubusercontent.com/1221423/235727646-4a590299-ffe5-480d-8cd5-8194ea184546.svg)](https://github.com/new?template_owner=skills&template_name=github-pages&owner=%40me&name=skills-github-pages&description=My+clone+repository&visibility=public)
-
-1. Right-click **Start course** and open the link in a new tab.
-2. In the new tab, most of the prompts will automatically fill in for you.
-   - For owner, choose your personal account or an organization to host the repository.
-   - We recommend creating a public repository, as private repositories will [use Actions minutes](https://docs.github.com/en/billing/managing-billing-for-github-actions/about-billing-for-github-actions).
-   - Scroll down and click the **Create repository** button at the bottom of the form.
-3. After your new repository is created, wait about 20 seconds, then refresh the page. Follow the step-by-step instructions in the new repository's README.
-
-<footer>
-
-<!--
-  <<< Author notes: Footer >>>
-  Add a link to get support, GitHub status page, code of conduct, license link.
--->
-
----
-
-Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/github-pages) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
-
-&copy; 2023 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
-
-</footer>
+<p data-pm-slice="1 1 []">If you&rsquo;re a QuickBooks Desktop user, you may sometimes run into payroll tax calculation issues. These errors can lead to incorrect tax filings, employee payment discrepancies, and frustration. In this article, we&rsquo;ll walk you through common QuickBooks Desktop Payroll tax calculation problems and how to resolve them efficiently. For immediate support, you can always reach out to the QuickBooks Desktop helpline at １(８３３)７４２-９５００.</p>
+<h3>Common Payroll Tax Calculation Issues in QuickBooks Desktop</h3>
+<ol start="1" data-spread="true">
+<li>
+<p><strong>Incorrect Tax Amounts</strong><br />Sometimes, QuickBooks Desktop calculates incorrect federal or state tax amounts. This could happen due to outdated tax tables or incorrect payroll setup.</p>
+</li>
+<li>
+<p><strong>Payroll Tax Table Not Updated</strong><br />QuickBooks requires the latest payroll tax table to calculate accurate taxes. If the tax table isn&rsquo;t updated, you may face discrepancies in calculations.</p>
+</li>
+<li>
+<p><strong>Employee Tax Setup Errors</strong><br />Incorrect employee tax information, such as filing status, exemptions, or additional tax amounts, can lead to wrong tax calculations.</p>
+</li>
+<li>
+<p><strong>Company Payroll Preferences Misconfiguration</strong><br />Misconfigured company settings related to payroll taxes may also result in incorrect calculations.</p>
+</li>
+</ol>
+<h3>How to Fix Payroll Tax Calculation Issues</h3>
+<ol start="1" data-spread="true">
+<li>
+<p><strong>Update QuickBooks Desktop and Payroll Tax Tables:</strong><br />Go to <em>Employees</em> &gt; <em>Get Payroll Updates</em> &gt; <em>Download Entire Update</em> and make sure your tax table is current.</p>
+</li>
+<li>
+<p><strong>Verify Employee Tax Setup:</strong><br />Navigate to <em>Employees</em> &gt; <em>Employee Center</em> and ensure each employee&rsquo;s tax information is accurate.</p>
+</li>
+<li>
+<p><strong>Review Payroll Item Setup:</strong><br />Go to <em>Lists</em> &gt; <em>Payroll Item List</em> and check that all tax items are set up correctly.</p>
+</li>
+<li>
+<p><strong>Run Payroll Summary Reports:</strong><br />Generate a payroll summary report to identify any tax calculation errors.</p>
+</li>
+<li>
+<p><strong>Contact QuickBooks Support:</strong><br />If you&rsquo;re still facing issues, call QuickBooks Desktop support at １(８３３)７４２-９５００ for expert assistance.</p>
+</li>
+</ol>
+<h3>Conclusion</h3>
+<p>Payroll tax calculation issues in QuickBooks Desktop can disrupt your business operations, but they&rsquo;re fixable. By updating tax tables, verifying employee information, and configuring payroll items correctly, you can resolve most problems on your own. And if you ever need professional support, don&rsquo;t hesitate to call QuickBooks Desktop at １(８３３)７４２-９５００ for immediate help.</p>
+<p><a href="https://medium.com/@clairesmith89704/fixing-quickbooks-desktop-payroll-tax-calculation-issues-a-comprehensive-guide-c4a05cca2710">https://medium.com/@clairesmith89704/fixing-quickbooks-desktop-payroll-tax-calculation-issues-a-comprehensive-guide-c4a05cca2710</a></p>
